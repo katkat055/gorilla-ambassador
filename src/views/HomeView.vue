@@ -4,7 +4,7 @@
 
 <template>
   <main>
-<button class="btn">login ort somehjting</button>
+<button class="btn">login or  somehjting</button>
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
